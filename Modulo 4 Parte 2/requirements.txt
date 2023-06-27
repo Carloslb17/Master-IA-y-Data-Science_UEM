@@ -1,6 +1,6 @@
-flask==2.3.0
-pandas==2.0.0
-scikit-learn==1.2.2
+flask==2.3.2
+pandas
+scikit-learn
 ibm-cos-sdk==2.10.0
 cloudant==2.14.0
-urllib3==1.26
+urllib3<2
