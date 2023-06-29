@@ -20,7 +20,7 @@
     "cloud-object-storage": [
         {
             "credentials": {
-              "apikey": "eYCYnXc-REEESfcbLprdTXI-FahthtTA-w2ZNlbtQcrn",
+              "apikey": "6HjMWjkOhch4RilT_IKcLR-orC75gzVCLYfoeWh2pFHh",
               "endpoints": "https://s3.ap.cloud-object-storage.appdomain.cloud",
               "iam_apikey_description": "Auto-generated for key crn:v1:bluemix:public:cloud-object-storage:global:a/52fdc7c41f83421688af9df7e6d32a87:c2c14b4e-7f68-4a18-8d62-29b8b1e45ad1:resource-key:b200e01b-cd45-435b-b56e-88a33e1e488b",
               "iam_apikey_name": "creds2023",
